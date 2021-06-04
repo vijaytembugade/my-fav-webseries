@@ -1,0 +1,42 @@
+h1,
+p {
+  font-family: Lato;
+}
+body {
+  background-color: #06414113;
+}
+.container {
+  max-width: 80%;
+  margin: 0% 30%;
+  text-align: center;
+
+  padding: 0.1rem;
+}
+/* .platform {
+  background-color: #c5c6c7;
+  padding: 0.7rem;
+  margin: 1rem;
+  cursor: pointer;
+  border-radius: 2rem;
+  border: 1px solid #f3ca20;
+} */
+.content {
+  padding: 1rem;
+  background-color: #e0b564;
+  color: #000000;
+  border-radius: 0.6rem;
+  margin-bottom: 1rem;
+}
+.content-block {
+  margin: 1rem;
+}
+img {
+  padding: 0.5rem;
+  border-radius: 0.2rem;
+  width: 50px;
+  margin: 0.2rem;
+  cursor: pointer;
+}
+span {
+  font-size: 12px;
+}
