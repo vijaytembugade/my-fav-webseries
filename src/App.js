@@ -10,11 +10,13 @@ const webSeries = {
   ],
   'Amazon Prime': [
     { name: 'Mirzapur ', imdb: '8.4' },
-    { name: 'Family Man', imdb: '6.8' }
+    { name: 'Family Man', imdb: '8.8' },
+    { name: 'Super Girl', imdb: '6.2' }
   ],
   'HBO Max': [
     { name: 'Game of Thrones', imdb: '9.3' },
-    { name: 'Silicon Valley ', imdb: '8.5' }
+    { name: 'Silicon Valley ', imdb: '8.5' },
+    { name: 'Westworld', imdb: '8.6' }
   ]
 };
 
