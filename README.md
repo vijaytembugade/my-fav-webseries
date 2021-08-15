@@ -1,3 +1,2 @@
-# react-5hotgy
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-5hotgy)
+#  My favorite web series and their platforms
+Here are some recommanded web shows on netflix , amazon prime and HBO Max, with their IMDB rating. Have alook at those. Definalty, you would find it more exciting 😉.
